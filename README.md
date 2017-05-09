@@ -10,6 +10,3 @@ It has three plugin, the main is the managment for mozilla firefox (only) and yo
 
 # If I don´t have access to the source?
 You can use the second plugin called Walkme player, It embebed the code within the browser and sincronized with the snippet generated.
-
-Thanks for reading
-Sincerely, Stephano Apiolaza
